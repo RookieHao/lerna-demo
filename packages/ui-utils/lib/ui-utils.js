@@ -1,7 +1,5 @@
-'use strict';
 
-module.exports = uiUtils;
 
-function uiUtils() {
+export default function uiUtils() {
     console.log(`this is ui-utils`)
 }

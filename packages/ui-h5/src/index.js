@@ -4,6 +4,10 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import uiUtils from 'ui-utils'
+
+uiUtils()
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
